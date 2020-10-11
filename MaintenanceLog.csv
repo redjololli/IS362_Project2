@@ -1,0 +1,21 @@
+﻿Event,Date,Time,Status
+Failure,Jan/19/2020,4:00 PM,Completed
+Maintenance,Jan/10/2020,8:30 AM,Completed
+Failure,Jan/11/2020,9:13 AM,Completed
+Inspection,Jan/12/2020,3:26 PM,Completed
+Failure,Jan/13/2010,4:56 PM,Completed
+Maintenance,Jan/15/2010,1:16 PM,Completed
+Failure,Jan/20/2010,1:38 PM,Completed
+Failure,Jan/25/2010,10:32 AM,Postponed
+Cleaning,Jan/28/2010,11:31 AM,Completed
+Failure,Feb/02/2010,2:38 PM,Postponed
+Inspection,Feb/08/2010,3:51 PM,Completed
+Failure,Feb/12/2010,4:42 PM,Completed
+Cleaning,Feb/17/2010,2:47 PM,Postponed
+Maintenance,Feb/25/2010,4:31 PM,Postponed
+Failure,Feb/28/2010,9:00 AM,Completed
+Failure,Mar/01/2010,10:16 AM,Completed
+Inspection,Mar/02/2010,3:14 PM,Completed
+Failure,Mar/12/2010,8:46 AM,Completed
+Failure,Mar/13/2010,4:45 PM,Completed
+Maintenance,Mar/15/2010,9:36 AM,Postponed
